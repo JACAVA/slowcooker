@@ -1,2 +1,2 @@
 # slowcooker
-Slow Cooker website: Inspiring others with busy lifestyles to user real ingredients and cook it themselves!
+Slow Cooker website: Inspiring others with busy lifestyles to use real ingredients and cook it themselves!
